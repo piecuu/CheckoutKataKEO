@@ -1,7 +1,7 @@
 ﻿using CheckoutKataKEO.Core.Interfaces;
 using CheckoutKataKEO.Core.Models;
 
-namespace CheckoutKataKEO.Core.Implementation
+namespace CheckoutKataKEO.Core.Services
 {
     public class DiscountService : IDiscountService
     {
