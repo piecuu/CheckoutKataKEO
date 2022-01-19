@@ -11,5 +11,10 @@
             Product = product;
             Quantity = 1;
         }
+
+        public void AddQuantity()
+        {
+            Quantity++;
+        }
     }
 }
